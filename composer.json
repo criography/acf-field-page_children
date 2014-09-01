@@ -11,5 +11,6 @@
     "minimum-stability": "stable",
     "require": {
 
-    }
+    },
+		"type": "wordpress-plugin"
 }
