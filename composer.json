@@ -1,16 +1,16 @@
 {
-    "name": "criography/acf-field-page_children",
-    "description": "A custom field for Advanced Custom Fields: displays a list of chilren pages",
-    "license": "GPLv2 or later",
-    "authors": [
-        {
-            "name": "Marek Lenik",
-            "email": "marek@criography.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {
+	"name"             : "criography/acf-field-page_children",
+	"description"      : "A custom field for Advanced Custom Fields: displays a list of chilren pages",
+	"license"          : "GPLv2 or later",
+	"authors"          : [
+		{
+			"name" : "Marek Lenik",
+			"email": "marek@criography.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require"          : {
 
-    },
-		"type": "wordpress-plugin"
+	},
+	"type"             : "wordpress-plugin"
 }
