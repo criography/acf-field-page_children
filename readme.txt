@@ -26,5 +26,5 @@ This ACF field type is compatible with:
 
 == Changelog ==
 
-= 1.0.3 =
+= 1.0.4 =
 * Composer Ready Initial Release.
