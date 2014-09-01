@@ -9,8 +9,9 @@
 		}
 	],
 	"minimum-stability": "stable",
-	"require"          : {
-
-	},
-	"type"             : "wordpress-plugin"
+    "require": {
+        "composer/installers": "~1.0"
+    },
+	"type"             : "wordpress-plugin",
+	
 }
